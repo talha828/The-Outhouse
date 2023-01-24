@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\96ebb892cd9a4e426c9937c34c38134d\\transformed\\core-1.6.0\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\path_provider_android\\intermediates\\merged_res\\debug\\values-zu\\values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\96ebb892cd9a4e426c9937c34c38134d\\transformed\\core-1.6.0\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

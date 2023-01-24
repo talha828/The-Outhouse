@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1184796851/android.assets_audio_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-1184796851/android.assets_audio_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-539833502/android.assets_audio_player_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-539833502/android.assets_audio_player_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1788212138/android.google_mobile_ads.iml" filepath="$PROJECT_DIR$/.idea/modules/-1788212138/android.google_mobile_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1002073654/android.share_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/1002073654/android.share_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/52406577/com.danieldallos.storeredirect.android.store_redirect.iml" filepath="$PROJECT_DIR$/.idea/modules/52406577/com.danieldallos.storeredirect.android.store_redirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2136490104/com.dsi.facebook_audience_network.android.facebook_audience_network.iml" filepath="$PROJECT_DIR$/.idea/modules/-2136490104/com.dsi.facebook_audience_network.android.facebook_audience_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1533358128/com.example.FlutterToast.android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-1533358128/com.example.FlutterToast.android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2011444053/com.onesignal.flutter.android.onesignal_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-2011444053/com.onesignal.flutter.android.onesignal_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1617683935/com.pichillilorenzo.flutter_inappwebview.android.flutter_inappwebview.iml" filepath="$PROJECT_DIR$/.idea/modules/1617683935/com.pichillilorenzo.flutter_inappwebview.android.flutter_inappwebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1804718452/com.tekartik.sqflite.android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/1804718452/com.tekartik.sqflite.android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/890742689/io.flutter.plugins.connectivity.android.connectivity_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/890742689/io.flutter.plugins.connectivity.android.connectivity_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472257683/io.flutter.plugins.packageinfo.android.package_info_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/472257683/io.flutter.plugins.packageinfo.android.package_info_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/925012730/io.flutter.plugins.pathprovider.android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/925012730/io.flutter.plugins.pathprovider.android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215527924/io.flutter.plugins.sharedpreferences.android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215527924/io.flutter.plugins.sharedpreferences.android.shared_preferences_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/711855674/io.flutter.plugins.urllauncher.android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/711855674/io.flutter.plugins.urllauncher.android.url_launcher_android.iml" />
+    </modules>
+  </component>
+</project>

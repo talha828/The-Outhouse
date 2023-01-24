@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    }
+]

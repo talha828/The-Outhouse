@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\b6b213f83966af556c508a423a62100d\\transformed\\work-runtime-2.7.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\b6b213f83966af556c508a423a62100d\\transformed\\work-runtime-2.7.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
