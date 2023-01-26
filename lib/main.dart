@@ -1,7 +1,10 @@
 import 'dart:async';
 import 'dart:convert';
+import 'dart:io';
+import 'dart:typed_data';
 import 'package:assets_audio_player/assets_audio_player.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:mighty_radio/store/AppStore.dart';
 import 'package:mighty_radio/store/WishListStore/WishListStore.dart';
@@ -33,8 +36,21 @@ int mAdDetailShowCount = 0;
 
 final navigatorKey = GlobalKey<NavigatorState>();
 
+
+class MyHttpOverrides extends HttpOverrides{
+  @override
+  HttpClient createHttpClient(SecurityContext? context){
+    return super.createHttpClient(context)
+      ..badCertificateCallback = (X509Certificate cert, String host, int port)=> true;
+  }
+}
+
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  HttpOverrides.global = MyHttpOverrides();
+  // ByteData data = await PlatformAssetBundle().load('assets/ca/lets-encrypt-r3.pem');
+  // SecurityContext.defaultContext.setTrustedCertificatesBytes(data.buffer.asUint8List());
+
   sharedPreferences = await SharedPreferences.getInstance();
   String wishListString = getStringAsync(WISHLIST_ITEM_LIST);
 

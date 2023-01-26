@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\96ebb892cd9a4e426c9937c34c38134d\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\96ebb892cd9a4e426c9937c34c38134d\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\96ebb892cd9a4e426c9937c34c38134d\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\96ebb892cd9a4e426c9937c34c38134d\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\96ebb892cd9a4e426c9937c34c38134d\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\22551acb38a687a95e3b00b9e37f8244\\transformed\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\22551acb38a687a95e3b00b9e37f8244\\transformed\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\96ebb892cd9a4e426c9937c34c38134d\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

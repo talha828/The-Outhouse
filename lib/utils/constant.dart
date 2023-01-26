@@ -3,7 +3,7 @@ import 'package:mighty_radio/utils/Extensions/shared_pref.dart';
 const AppName = "The Outhouse Radio";
 
 /// Note: /api/ is required after your domain. Ex if your domain is www.abc.com then ${mBaseUrl} will be  https://www.abc.com/api/
-const mBaseUrl = 'http://localhost:44256/Backend/api/';
+const mBaseUrl = 'https://stensonindustries.com/wp-hide/api/';
 // const mBaseUrl = 'https://meetmighty.com/mobile/mighty-radio/api/';
 
 // Facebook

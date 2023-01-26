@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_tint.xml"
-    },
-    {
-        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\color\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\color\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_text_light.xml"
     }
 ]

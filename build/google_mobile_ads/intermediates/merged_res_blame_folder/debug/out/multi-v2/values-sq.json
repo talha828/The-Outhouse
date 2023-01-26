@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\a6db52aa3b37c5c1376f8c58f224f0e4\\transformed\\jetified-play-services-basement-17.6.0\\res\\values-sq\\values.xml",
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\normal\\Desktop\\radio\\codecanyon-37458785-mighty-radio-flutter-radio-streaming-app-with-php-backend\\MightyRadioSourceCode\\FlutterCode\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\values-sq\\values-sq.xml",
+            "outputFile": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\debug\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\a6db52aa3b37c5c1376f8c58f224f0e4\\transformed\\jetified-play-services-basement-17.6.0\\res\\values-sq\\values.xml",

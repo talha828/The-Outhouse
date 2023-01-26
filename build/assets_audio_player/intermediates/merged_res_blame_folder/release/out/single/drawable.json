@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\3bb40b2431724e8d52bd6cc89577a078\\transformed\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\exo_rounded_rectangle.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\25da4b7f5e0bd3126d0d20887ce5613a\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable\\exo_rounded_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\3bb40b2431724e8d52bd6cc89577a078\\transformed\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\3bb40b2431724e8d52bd6cc89577a078\\transformed\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\3bb40b2431724e8d52bd6cc89577a078\\transformed\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    }
+]

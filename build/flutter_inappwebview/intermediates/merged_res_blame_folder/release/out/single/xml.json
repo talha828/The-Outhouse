@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\image_share_filepaths.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\c4b79c120a123f853b1b5b5cc41f3bb5\\transformed\\browser-1.4.0\\res\\xml\\image_share_filepaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\normal\\Downloads\\flutter_3.0.5\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_inappwebview-5.7.2+3\\android\\src\\main\\res\\xml\\provider_paths.xml"
+    }
+]

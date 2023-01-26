@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\normal\\StudioProjects\\mightyradio\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\normal\\.gradle\\caches\\transforms-3\\9986fd3775c73c07a9007e981e14f7e0\\transformed\\jetified-play-services-base-17.6.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]
